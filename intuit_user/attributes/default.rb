@@ -1,0 +1,1 @@
+default[:intuit_user][:user] = "manoj"
